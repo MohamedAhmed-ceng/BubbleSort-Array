@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\bin\Debug\net6.0\BubbleSort-Array.exe
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\bin\Debug\net6.0\BubbleSort-Array.deps.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\bin\Debug\net6.0\BubbleSort-Array.runtimeconfig.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\bin\Debug\net6.0\BubbleSort-Array.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\bin\Debug\net6.0\BubbleSort-Array.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.AssemblyInfo.cs
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\refint\BubbleSort-Array.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\BubbleSort-Array.genruntimeconfig.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\BubbleSorting-Array\obj\Debug\net6.0\ref\BubbleSort-Array.dll
